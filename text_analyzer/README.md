@@ -1,8 +1,10 @@
-# Text Analyzer
-
-This project is a text analyzer that performs various string operations, such as counting words and finding the most common words in a text file. The results are saved to a CSV file and visualized as a bar chart in an SVG file.
-
-## Requirements
-
-- Python 3.x
-- matplotlib
+Kujbida Maciej i Witkowski Daniel
+ 1.    Aplikacja do analizy tekstu: Ta aplikacja będzie wczytywać plik
+tekstowy, przeprowadzać różne operacje na stringach (takie jak liczenie
+słów, znalezienie najczęściej występujących słów), a następnie zapisywać
+wyniki do innego pliku tekstowego. Może również generować wykresy na
+podstawie wyników analizy. Wykresy należy zapisać w pliku graficznym
+najlepiej wektorowym, Przetworzone dane tekstowe (csv) zapisać w pliku z
+obliczeniami csv. Wszystkie te aplikacje powinny uwzględniać tworzenie
+obiektów i dziedziczenie, a także zawierać testy funkcjonalne, jednostkowe i
+zbiorcze.
